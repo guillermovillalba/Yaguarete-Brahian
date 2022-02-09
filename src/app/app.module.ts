@@ -23,6 +23,7 @@ import { MonederoCriptosComponent } from './dashboard/monedero-criptos/monedero-
 import { MonderoPesoComponent } from './dashboard/mondero-peso/mondero-peso.component';
 
 
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -44,6 +45,7 @@ import { MonderoPesoComponent } from './dashboard/mondero-peso/mondero-peso.comp
          CotizacionVerticalComponent,
          MonederoCriptosComponent,
          MonderoPesoComponent,
+         
          
   ],
   imports: [
